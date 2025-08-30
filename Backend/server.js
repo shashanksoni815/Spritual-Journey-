@@ -29,7 +29,7 @@ const start = async () => {
     }
 }
 
-start();
+export default {start};
 
 
 // app.listen(PORT, () => {
